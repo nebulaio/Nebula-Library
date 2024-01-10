@@ -5,7 +5,7 @@ Toggle game window between maximize and minimize in Unreal Engine 4.
 - `MinimizeGameWindow()`: Minimize window.
 - `MaximizeGameWindow(bool bFullscreen)`: Toggle maximize/windowed mode.
 
-![Functions Showcase](https://i.ibb.co/gmYZX5S/Functions-Showcase.png)
+![Functions Showcase](https://i.ibb.co/gmYZX5S/Toggle-Game-Window-Functions-Showcase.png)
 
 **Instructions:**
 1. Clone repo.
