@@ -1,5 +1,5 @@
 **Description:**
-Toggle game window between maximize and minimize in Unreal Engine 4.
+Toggle game window between maximize and minimize in Unreal Engine.
 
 **Usage:**
 - `MinimizeGameWindow()`: Minimize window.
